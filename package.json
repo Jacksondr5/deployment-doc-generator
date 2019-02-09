@@ -1,5 +1,5 @@
 {
-  "name": "electron-starter",
+  "name": "deployment-doc-generator",
   "version": "1.0.0",
   "main": "./src/main.js",
   "license": "MIT",
