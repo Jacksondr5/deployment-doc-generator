@@ -1,1 +1,0 @@
--configure externals (https://webpack.js.org/configuration/externals/) so we don't build node_modules (at least maybe not until prod build?)
